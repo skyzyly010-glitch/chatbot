@@ -1,0 +1,6 @@
+# gradio ไม่ต้องใส่ เพราะ Hugging Face ติดตั้งให้ตาม sdk_version ใน README.md
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers
+google-genai
+numpy
